@@ -15,7 +15,7 @@ This is where i document my reading notes throughout the course.
 
 |#|Subject|Link|
 |-----|--------|--------|
-|1   |Read01        |[Java Basics](https://sufianhamdan.github.io/401-reading-notes/Read01)|
+|1   |Read01        |[Java Basics](https://sufianhamdan.github.io/401-reading-notes/Read01/Read01.md)|
 |2   |     ||
 |3   |        |--------|
 |4   |        |--------|
