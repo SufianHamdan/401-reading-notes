@@ -16,7 +16,7 @@ This is where i document my reading notes throughout the course.
 |#|Subject|Link|
 |-----|--------|--------|
 |1   |Read01        |[Java Basics](https://sufianhamdan.github.io/401-reading-notes/Read01/Read01.md)|
-|2   |  Read01   |[Java Basics](https://sufianhamdan.github.io/401-reading-notes/Read02/Read02.md)|
+|2   |  Read02   |[Java Basics](https://sufianhamdan.github.io/401-reading-notes/Read02/Read02.md)|
 |3   |        |--------|
 |4   |        |--------|
 |5   |        |--------|
@@ -29,4 +29,3 @@ This is where i document my reading notes throughout the course.
 |13  |        |--------|
 |14  |        |--------|
 |15  |        |--------|
-
