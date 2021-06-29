@@ -17,8 +17,8 @@ This is where i document my reading notes throughout the course.
 |-----|--------|--------|
 |1   |Read01|[Java Basics](https://sufianhamdan.github.io/401-reading-notes/Read01/Read01.md)|
 |2   |Read02|[Java Basics](https://sufianhamdan.github.io/401-reading-notes/Read02/Read02.md)|
-|3   |Read03[Java Basics](https://sufianhamdan.github.io/401-reading-notes/Read03/Read03.md)|
-|4   |Read04|aaaa|
+|3   |Read03|[Java Basics](https://sufianhamdan.github.io/401-reading-notes/Read03/Read03.md)|
+|4   |Read04|[Java Basics](https://sufianhamdan.github.io/401-reading-notes/Read04/Read04.md)|
 |5   |Read05|aaaa|
 |6   |Read06|aaaa|
 |7   |Read07|aaaa|
