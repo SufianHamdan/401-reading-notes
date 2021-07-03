@@ -19,13 +19,13 @@ This is where i document my reading notes throughout the course.
 |2   |Read02|[Java Basics](https://sufianhamdan.github.io/401-reading-notes/Read02/Read02.md)|
 |3   |Read03|[Java Basics](https://sufianhamdan.github.io/401-reading-notes/Read03/Read03.md)|
 |4   |Read04|[Java Basics](https://sufianhamdan.github.io/401-reading-notes/Read04/Read04.md)|
-|5   |Read05|aaaa|
-|6   |Read06|aaaa|
-|7   |Read07|aaaa|
-|8   |Read08|aaaa|
-|9   |Read09|aaaa|
-|10  |Read10|aaaa|
-|11  |Read11|aaaa|
-|12  |Read12|aaaa|
-|13  |Read13|aaaa|
-|14  |Read14|aaaa|
+|5   |Read05|[Java Basics](https://sufianhamdan.github.io/401-reading-notes/Read05/Read05.md)|
+|6   |Read06|[Java Basics](https://sufianhamdan.github.io/401-reading-notes/Read06/Read06.md)|
+|7   |Read07|[Java Basics](https://sufianhamdan.github.io/401-reading-notes/Read07/Read07.md)|
+|8   |Read08|[Java Basics](https://sufianhamdan.github.io/401-reading-notes/Read08/Read08.md)|
+|9   |Read09|[Java Basics](https://sufianhamdan.github.io/401-reading-notes/Read09/Read09.md)|
+|10  |Read10|[Java Basics](https://sufianhamdan.github.io/401-reading-notes/Read10/Read10.md)|
+|11  |Read11|[Java Basics](https://sufianhamdan.github.io/401-reading-notes/Read11/Read11.md)|
+|12  |Read12|[Java Basics](https://sufianhamdan.github.io/401-reading-notes/Read12/Read12.md)|
+|13  |Read13|[Java Basics](https://sufianhamdan.github.io/401-reading-notes/Read13/Read13.md)|
+|14  |Read14|[Java Basics](https://sufianhamdan.github.io/401-reading-notes/Read14/Read14.md)|
