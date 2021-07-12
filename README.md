@@ -26,6 +26,6 @@ This is where i document my reading notes throughout the course.
 |9   |Read09|[WRRC and Java](https://sufianhamdan.github.io/401-reading-notes/Read09/Read09)|
 |10  |Read10|[Stacks & Queues](https://sufianhamdan.github.io/401-reading-notes/Read10/Read10)|
 |11  |Read11|[Spring](https://sufianhamdan.github.io/401-reading-notes/Read11/Read11)|
-|12  |Read12|[..](https://sufianhamdan.github.io/401-reading-notes/Read12/Read12)|
-|13  |Read13|[...](https://sufianhamdan.github.io/401-reading-notes/Read13/Read13)|
+|12  |Read12|[Spring RESTful Routing & Static Files](https://sufianhamdan.github.io/401-reading-notes/Read12/Read12)|
+|13  |Read13|[Related Resources and Integration Testing](https://sufianhamdan.github.io/401-reading-notes/Read13/Read13)|
 |14  |Read14|[...](https://sufianhamdan.github.io/401-reading-notes/Read14/Read14)|
