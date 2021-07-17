@@ -28,4 +28,5 @@ This is where i document my reading notes throughout the course.
 |11  |Read11|[Spring](https://sufianhamdan.github.io/401-reading-notes/Read11/Read11)|
 |12  |Read12|[Spring RESTful Routing & Static Files](https://sufianhamdan.github.io/401-reading-notes/Read12/Read12)|
 |13  |Read13|[Related Resources and Integration Testing](https://sufianhamdan.github.io/401-reading-notes/Read13/Read13)|
-|14  |Read14|[...](https://sufianhamdan.github.io/401-reading-notes/Read14/Read14)|
+|14  |Read14|[...](https://sufianhamdan.github.io/401-reading-notes/Read16/Read16)|
+|14  |Read16|[...](https://sufianhamdan.github.io/401-reading-notes/Read16/Read16)|
