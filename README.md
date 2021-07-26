@@ -30,4 +30,4 @@ This is where i document my reading notes throughout the course.
 |13  |Read13|[Related Resources and Integration Testing](https://sufianhamdan.github.io/401-reading-notes/Read13/Read13)|
 |14  |Read16|[Spring Authentication](https://sufianhamdan.github.io/401-reading-notes/Read16/Read16)|
 |15  |Read17|[Spring Authorization](https://sufianhamdan.github.io/401-reading-notes/Read17/Read17)|
-|16  |Read18|[Spring Authorization](https://sufianhamdan.github.io/401-reading-notes/Read18/Read18)|
+|16  |Read18|[Web App Security](https://sufianhamdan.github.io/401-reading-notes/Read18/Read18)|
