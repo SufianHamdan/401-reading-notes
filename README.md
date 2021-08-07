@@ -28,7 +28,8 @@ This is where i document my reading notes throughout the course.
 |11  |Read11|[Spring](https://sufianhamdan.github.io/401-reading-notes/Read11/Read11)|
 |12  |Read12|[Spring RESTful Routing & Static Files](https://sufianhamdan.github.io/401-reading-notes/Read12/Read12)|
 |13  |Read13|[Related Resources and Integration Testing](https://sufianhamdan.github.io/401-reading-notes/Read13/Read13)|
-|14  |Read16|[Spring Authentication](https://sufianhamdan.github.io/401-reading-notes/Read16/Read16)|
-|15  |Read17|[Spring Authorization](https://sufianhamdan.github.io/401-reading-notes/Read17/Read17)|
-|16  |Read18|[Web App Security](https://sufianhamdan.github.io/401-reading-notes/Read18/Read18)|
-|17  |Read19|[Spring and Sockets](https://sufianhamdan.github.io/401-reading-notes/Read19/Read19)|
+|16  |Read16|[Spring Authentication](https://sufianhamdan.github.io/401-reading-notes/Read16/Read16)|
+|17  |Read17|[Spring Authorization](https://sufianhamdan.github.io/401-reading-notes/Read17/Read17)|
+|18  |Read18|[Web App Security](https://sufianhamdan.github.io/401-reading-notes/Read18/Read18)|
+|19  |Read19|[Spring and Sockets](https://sufianhamdan.github.io/401-reading-notes/Read19/Read19)|
+|26  |Read26|[Spring and Sockets](https://sufianhamdan.github.io/401-reading-notes/Read26/Read26)|
