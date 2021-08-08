@@ -33,3 +33,4 @@ This is where i document my reading notes throughout the course.
 |18  |Read18|[Web App Security](https://sufianhamdan.github.io/401-reading-notes/Read18/Read18)|
 |19  |Read19|[Spring and Sockets](https://sufianhamdan.github.io/401-reading-notes/Read19/Read19)|
 |26  |Read26|[Android Fundamentals](https://sufianhamdan.github.io/401-reading-notes/Read26/Read26)|
+|27  |Read27|[Intents, Activities, and SharedPreferences](https://sufianhamdan.github.io/401-reading-notes/Read27/Read27)|
