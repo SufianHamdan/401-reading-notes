@@ -35,5 +35,5 @@ This is where i document my reading notes throughout the course.
 |26  |Read26|[Android Fundamentals](https://sufianhamdan.github.io/401-reading-notes/Read26/Read26)|
 |27  |Read27|[Intents, Activities, and SharedPreferences](https://sufianhamdan.github.io/401-reading-notes/Read27/Read27)|
 |28  |Read28|[RecyclerView](https://sufianhamdan.github.io/401-reading-notes/Read28/Read28)|
-|29  |Read29|[RecyclerView](https://sufianhamdan.github.io/401-reading-notes/Read29/Read29)|
-|30  |Read30|[RecyclerView](https://sufianhamdan.github.io/401-reading-notes/Read30/Read30)|
+|29  |Read29|[Room](https://sufianhamdan.github.io/401-reading-notes/Read29/Read29)|
+|30  |Read30|[Hash Tables](https://sufianhamdan.github.io/401-reading-notes/Read30/Read30)|
