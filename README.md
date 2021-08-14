@@ -37,3 +37,4 @@ This is where i document my reading notes throughout the course.
 |28  |Read28|[RecyclerView](https://sufianhamdan.github.io/401-reading-notes/Read28/Read28)|
 |29  |Read29|[Room](https://sufianhamdan.github.io/401-reading-notes/Read29/Read29)|
 |30  |Read30|[Hash Tables](https://sufianhamdan.github.io/401-reading-notes/Read30/Read30)|
+|31  |Read31|[Espresso](https://sufianhamdan.github.io/401-reading-notes/Read31/Read31)|
