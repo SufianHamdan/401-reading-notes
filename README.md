@@ -38,3 +38,4 @@ This is where i document my reading notes throughout the course.
 |29  |Read29|[Room](https://sufianhamdan.github.io/401-reading-notes/Read29/Read29)|
 |30  |Read30|[Hash Tables](https://sufianhamdan.github.io/401-reading-notes/Read30/Read30)|
 |31  |Read31|[Espresso](https://sufianhamdan.github.io/401-reading-notes/Read31/Read31)|
+|32  |Read31|[Serverless and Amplify](https://sufianhamdan.github.io/401-reading-notes/Read32/Read32)|
