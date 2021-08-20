@@ -39,3 +39,5 @@ This is where i document my reading notes throughout the course.
 |30  |Read30|[Hash Tables](https://sufianhamdan.github.io/401-reading-notes/Read30/Read30)|
 |31  |Read31|[Espresso](https://sufianhamdan.github.io/401-reading-notes/Read31/Read31)|
 |32  |Read31|[Serverless and Amplify](https://sufianhamdan.github.io/401-reading-notes/Read32/Read32)|
+|33  |Read33|[GraphQL @connection](https://sufianhamdan.github.io/401-reading-notes/Read33/Read33)|
+|34  |Read34|[GraphQL @connection](https://sufianhamdan.github.io/401-reading-notes/Read34/Read34)|
