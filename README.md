@@ -10,7 +10,6 @@ This is where i document my reading notes throughout the course.
 
 ## Code 401 - Advanced Software Development
 
-
 **Table of Content**
 
 |#|Subject|Link|
@@ -40,4 +39,5 @@ This is where i document my reading notes throughout the course.
 |31  |Read31|[Espresso](https://sufianhamdan.github.io/401-reading-notes/Read31/Read31)|
 |32  |Read31|[Serverless and Amplify](https://sufianhamdan.github.io/401-reading-notes/Read32/Read32)|
 |33  |Read33|[GraphQL @connection](https://sufianhamdan.github.io/401-reading-notes/Read33/Read33)|
-|34  |Read34|[GraphQL @connection](https://sufianhamdan.github.io/401-reading-notes/Read34/Read34)|
+|34  |Read34|[Monetization](https://sufianhamdan.github.io/401-reading-notes/Read34/Read34)|
+|36  |Read36|[Amplify with Cognito for Login](https://sufianhamdan.github.io/401-reading-notes/Read36/Read36)|
