@@ -42,3 +42,4 @@ This is where i document my reading notes throughout the course.
 |34  |Read34|[Monetization](https://sufianhamdan.github.io/401-reading-notes/Read34/Read34)|
 |36  |Read36|[Amplify with Cognito for Login](https://sufianhamdan.github.io/401-reading-notes/Read36/Read36)|
 |37  |Read37|[Introduction to Amazon S3](https://sufianhamdan.github.io/401-reading-notes/Read37/Read37)|
+|38  |Read38|[Notifications](https://sufianhamdan.github.io/401-reading-notes/Read38/Read38)|
