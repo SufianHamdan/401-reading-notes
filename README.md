@@ -16,7 +16,7 @@ This is where i document my reading notes throughout the course.
 |-----|--------|--------|
 |1   |Read01|[Java Basics](https://sufianhamdan.github.io/401-reading-notes/Read01/Read01)|
 |2   |Read02|[Arrays, Loops, Imports](https://sufianhamdan.github.io/401-reading-notes/Read02/Read02)|
-|3   |Read03|[ Maps, primitives, File I/O](https://sufianhamdan.github.io/401-reading-notes/Read03/Read03)|
+|3   |Read03|[Maps, primitives, File I/O](https://sufianhamdan.github.io/401-reading-notes/Read03/Read03)|
 |4   |Read04|[OOP](https://sufianhamdan.github.io/401-reading-notes/Read04/Read04)|
 |5   |Read05|[Inheritance and Interfaces](https://sufianhamdan.github.io/401-reading-notes/Read05/Read05)|
 |6   |Read06|[Inheritance and Interfaces 2](https://sufianhamdan.github.io/401-reading-notes/Read06/Read06)|
@@ -43,3 +43,4 @@ This is where i document my reading notes throughout the course.
 |36  |Read36|[Amplify with Cognito for Login](https://sufianhamdan.github.io/401-reading-notes/Read36/Read36)|
 |37  |Read37|[Introduction to Amazon S3](https://sufianhamdan.github.io/401-reading-notes/Read37/Read37)|
 |38  |Read38|[Notifications](https://sufianhamdan.github.io/401-reading-notes/Read38/Read38)|
+|39  |Read39|[Kinesis](https://sufianhamdan.github.io/401-reading-notes/Read39/Read39)|
