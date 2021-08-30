@@ -46,3 +46,5 @@ This is where i document my reading notes throughout the course.
 |39  |Read39|[Kinesis](https://sufianhamdan.github.io/401-reading-notes/Read39/Read39)|
 |41  |Read41|[Intent Filters](https://sufianhamdan.github.io/401-reading-notes/Read41/Read41)|
 |42  |Read42|[Location](https://sufianhamdan.github.io/401-reading-notes/Read42/Read42)|
+|43  |Read43|[Kinesis & Analytics](https://sufianhamdan.github.io/401-reading-notes/Read43/Read43)|
+
